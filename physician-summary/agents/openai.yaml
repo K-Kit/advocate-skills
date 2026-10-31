@@ -1,0 +1,4 @@
+interface:
+  display_name: "Physician Summary"
+  short_description: "Technical physician TL;DRs and detailed document summaries"
+  default_prompt: "Use $physician-summary to summarize this document for physicians, with an ultra-concise technical TL;DR followed by a more thorough version."
