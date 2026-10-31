@@ -1,6 +1,6 @@
 ---
 name: physician-summary
-description: Summarize supplied documents for physicians using highly technical medical language, with an ultra-concise TL;DR followed by a detailed summary or either version alone. Use when the user asks for a TL;DR, TLDR, brief, or thorough summary of a clinical record, study, guideline, or other document for doctors, physicians, clinicians, or specialists; not for patient-facing plain-language explanations.
+description: "Summarizes medical documents for physicians: ultra-concise technical TL;DR, then a detailed summary, or either alone. Use for TL;DR or summaries for doctors/clinicians; not patient-facing."
 ---
 
 # Physician Summary
